@@ -23,5 +23,3 @@ On here, I'll be posting about my work, things that catch my fancy and discussio
 I also enjoy organising events and running logistics (which is as fun as it sounds), hosting events and public speaking, and giving talks and tutoring; and I have had quite some experience with leadership. I have had the honour of serving as the Head Boy of Delhi Public School Kalinga, Odisha (2016-18), and the President of Quizone, NISER's Quiz Club (2019-2021). I have also volunteered as a tutor and mentor with Avanti Fellows, Aveti Learning, and as a Section Leader in CodeInPlace, Stanford University.
 
 Feel free to get in touch with me if you wish to collaborate or simply talk about my work. I am also open to giving talks about my work and research.
-
-![Fern in Hand]( "Fern in Hand")
