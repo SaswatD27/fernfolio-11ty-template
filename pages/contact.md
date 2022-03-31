@@ -13,3 +13,5 @@ eleventyNavigation:
   order: 5
 ---
 The contact form on this page uses [Netlify Forms](https://www.netlify.com/docs/form-handling/). Drop me a message anytime and I will get back to you ASAP.
+
+Alternatively, I can be reached via [email](mailto:thenicec1pher@gmail.com). Shoot me a connection request on [LinkedIn](https://www.linkedin.com/in/saswat-das-3b7051179/) anytime!
