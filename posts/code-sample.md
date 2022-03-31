@@ -1,28 +1,24 @@
 ---
-title: This post contains a code sample
-metaDescription: Add code samples to your markdown files
-date: 2019-01-01T00:00:00.000Z
-author: John Appleseed
-summary: Add code samples to your markdown files
+title: Hey, it's a-me!
+date: 2022-03-31T08:43:32.190Z
+author: Saswat Das
+summary: Welcome :)
+metaDescription: Giving this a whirl.
 tags:
-  - tech
-  - environment
-  - politics
-  - sport
+  - miscellaneous
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Hey there! 
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+I'm delighted to have you around. I am Saswat, though if you run the risk of calling me Sasquatch (ahem...), then feel free to call me Aiden.
 
-## Section Header
+Professionally speaking, I am an Integrated Master of Science (Int. M.Sc.) student at the National Institute of Science Education and Research (abbrev. NISER), an off-campus centre of Homi Bhabha National Institute, India, and a student researcher in Dr. Subhankar Mishra's Lab (a.k.a. SM Lab) at NISER. My research interests broadly lie in differential privacy, privacy in machine learning (including DPML and federated learning), cryptography, and network security.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Ethnically I am Odia and am currently based in Bhubaneswar, Odisha, but I spent a major chunk of my childhood in Navi Mumbai in a wonderful suburb named Seawoods Darave.
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-```
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+On here, I'll be posting about my work, things that catch my fancy and discussions on recent developments in fields that interest me. In addition you can find me lost in music-induced trances, producing questionably trippy music on DAWs, kicking a football around, or writing random pieces of prose and poetry (the majority of which I might take to my grave). 
+
+I also enjoy organising events and running logistics (which is as fun as it sounds), hosting events and public speaking, and giving talks and tutoring; and I have had quite some experience with leadership. I have had the honour of serving as the Head Boy of Delhi Public School Kalinga, Odisha (2016-18), and the President of Quizone, NISER's Quiz Club (2019-2021). I have also volunteered as a tutor and mentor with Avanti Fellows, Aveti Learning, and as a Section Leader in CodeInPlace, Stanford University.
+
+
+
+Feel free to get in touch with me if you wish to collaborate or simply talk about my work. I am also open to giving talks about my work and research.
