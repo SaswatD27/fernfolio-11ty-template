@@ -1,6 +1,6 @@
 {
   "title": "Bienvenue!",
-  "image": "/static/img/fern-in-hand.jpeg",
+  "image": "https://source.unsplash.com/random/600x400",
   "subtitle": "Welcome to Saswat's Humble Virtual Abode.",
-  "image_alt": "Fern in hand"
+  "image_alt": "Random Eye Candy"
 }
