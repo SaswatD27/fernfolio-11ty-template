@@ -1,10 +1,10 @@
 ---
 layout: layouts/projects.njk
 title: Projects
-date: 2021-01-01
-permalink: /projects/index.html
+subtitle: A Quick Look at all the Shenanigans I've been up to
 metaDescription: A sample Projects page
-subtitle: This is the page where all projects will live
+date: 2022-03-31T10:32:12.895Z
+permalink: /projects/index.html
 emoji: 💻
 eleventyNavigation:
   key: Projects
