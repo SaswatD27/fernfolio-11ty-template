@@ -62,17 +62,14 @@ Zerocash etc., their mechanics, and an in-depth study into the mathematics behin
 
 **Section Leader** *(April, 2021 - May, 2021)*
 
-* Served as a section leader in Stanford University’s CodeInPlace programme and taught coding to a section of students from a
-global pool of applicants using material from the first half of Stanford University’s popular course, CS106A.
+* Served as a section leader in Stanford University’s CodeInPlace programme and taught coding to a section of students from a global pool of applicants using material from the first half of Stanford University’s popular course, CS106A.
 
 #### Technion, Israel
 
 **Participant, Summer School on Computer & Cyber Security** *(September, 2020)*
 
 * Attended talks and tutorials by experts belonging to various fields of cybersecurity and privacy.
-* **Topics covered**: Security and privacy. In particular: Tor, mixnets, private messaging systems, differential privacy, privacy by
-design, privacy-preserving contact tracing and machine learning, and economic and technological aspects of privacy (not
-exhaustive).
+* **Topics covered**: Security and privacy. In particular: Tor, mixnets, private messaging systems, differential privacy, privacy by design, privacy-preserving contact tracing and machine learning, and economic and technological aspects of privacy (not exhaustive).
 
 #### Aveti Learning
 
